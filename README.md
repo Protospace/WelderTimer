@@ -1,4 +1,4 @@
-# WeldTimer
+# Welder Timer
 Version 1.0
 
 Arduino based MIG Welder timer for Hobart Handler 175
