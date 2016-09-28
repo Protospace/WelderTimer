@@ -71,7 +71,6 @@ void printTime(long timeValue, boolean hours, boolean minutes, boolean seconds){
 		over = over % 1000;
 		lcd.print(int(s)); lcd.print("s ");
 	}
-	lcd.print(timeValue);
 }
 
 
